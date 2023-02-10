@@ -1,6 +1,6 @@
 ---
 name: create topic
-about: トピック名
+about: トピック作成
 title: ''
 labels: ''
 assignees: ''
