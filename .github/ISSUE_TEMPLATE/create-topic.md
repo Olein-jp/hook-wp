@@ -3,7 +3,7 @@ name: create topic
 about: トピック作成
 title: ''
 labels: ''
-assignees: ''
+assignees: inc2734, Olein-jp
 
 ---
 
