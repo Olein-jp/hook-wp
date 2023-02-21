@@ -1,6 +1,6 @@
 ---
-name: create topic
-about: トピック作成
+name: Create Topic
+about: Create a topic
 title: ''
 labels: ''
 assignees: inc2734, Olein-jp
