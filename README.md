@@ -26,3 +26,6 @@ hook wp_ は、WordPress に関係する情報をスピーカー目線でピッ�
 - Twitter などでハッシュタグ `#hookwp` をつけて投稿
 - [Youtube](https://www.youtube.com/@hook-wp) 動画にコメント投稿
 - 上の配信ネタトピック作成よりラベル `ご意見・感想` をつけてイシュー作成
+
+## 英語情報の意訳アーカイブ
+気になる外国語情報の意訳（翻訳とは言えないレベル）を、当レポジトリの [Wiki](https://github.com/Olein-jp/hook-wp/wiki) にストックしています。よろしければご覧ください。
