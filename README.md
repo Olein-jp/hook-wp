@@ -1,3 +1,5 @@
+[イシューを作成する](https://github.com/Olein-jp/hook-wp/issues/new?assignees=inc2734%2C+Olein-jp&labels=&projects=&template=create-topic.md&title=)
+
 # hook wp_ トピック管理用レポジトリ
 hook wp_ で取り扱うトピックなどを管理するためのレポジトリです。配信で取り扱うトピックをイシューで管理しています。
 
